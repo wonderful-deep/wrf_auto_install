@@ -1,0 +1,1 @@
+sed -i "s|WRF_DIR\s*=\s*../WRFV3|WRF_DIR = ${WRF_DIR}|" configure.wps
